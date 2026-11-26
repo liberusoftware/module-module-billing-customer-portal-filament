@@ -3,7 +3,7 @@
   "name": "module-billing-customer-portal-filament",
   "display_name": "Billing Customer Portal Filament",
   "description": "Filament adapter for Billing Customer Portal.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "category": "presentation",
   "provider": "Liberu\\Billing\\CustomerPortal\\Filament\\CustomerPortalFilamentServiceProvider",
   "requires": {
